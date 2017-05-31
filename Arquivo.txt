@@ -1,1 +1,3 @@
 Arquivo inicial para teste do commit no github
+Teste alterção de arquivo para segundo commit
+Teste terceiro commit
